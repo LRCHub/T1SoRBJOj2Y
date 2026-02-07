@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Timing～タイミング～",
+  "base_artist": "Black Biscuits",
+  "createdAt": "2026-02-07T20:27:21.728602Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Timing～タイミング～",
+      "artist": "Black Biscuits",
+      "has_synced": false,
+      "path": "select/pl_01_Timing~タイミング~_Black_Biscuits.txt"
+    }
+  ]
+}
